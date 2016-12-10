@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT" tvg-logo="http://layout.tv.eurosport.com/i/logo/tvschedule/epg/v8/logo_id_0_full.png" group-title="MEO&NOZ",EUROSPORT
+http://iptvtt.ddns.net:8000/live/111/111/795.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/11/eurosport-2.jpg" group-title="MEO&NOZ",EUROSPORT 2
+http://iptvtt.ddns.net:8000/live/111/111/793.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://mytvlive.me/wp-content/uploads/2016/07/eurosport-1-live.jpg" group-title="MEO&NOZ",EUROSPORT 1 HD
+http://iptvtt.ddns.net:8000/live/111/111/725.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2 XTRA HD" tvg-logo="https://kptuy52666.i.lithium.com/t5/image/serverpage/image-id/596i5CC01C9204D9F598?v=v2" group-title="MEO&NOZ",EUROSPORT 2 XTRA HD
+http://iptvtt.ddns.net:8000/live/111/111/792.ts
